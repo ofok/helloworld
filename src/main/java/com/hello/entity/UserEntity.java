@@ -8,8 +8,8 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author fox
- * @email 2763800211@qq.com
+ * @author jiuge
+ * @email 2268898670@qq.com
  * @date 2021-01-28 15:53:24
  */
 @Data
